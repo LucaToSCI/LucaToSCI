@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucaToSCI
-- 👀 I’m interested in Machine Learning 
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently studying Computer-Science 
-- 🚀 I’m looking to collaborate on ML projects 
+- 🚀 I’m looking to collaborate on AI projects 
 - 📫 How to reach me? Just send me an email on lucatorre00@gmail.com
 
 <!---
