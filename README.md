@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Luca
-- 🌱 I’m currently taking **Artificial Intelligence**, **High-Performance Computing** and **Computer Graphics** courses
+- 🌱 I’m currently creating some fun stuff!
 - 🚀 I’m looking to collaborate on AI projects 
 - 📫 How to reach me? Just send me an email on **torresanluca00[at]gmail[dot]com**
 
