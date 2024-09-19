@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Luca
-- 🌱 I’m currently creating some fun stuff!
+- 🌱 I’m currently creating some fun stuff with LLM's and document parsing!
 - 🚀 I’m looking to collaborate on AI projects 
 - 📫 How to reach me? Just send me an email on **torresanluca00[at]gmail[dot]com**
 
